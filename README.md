@@ -8,13 +8,13 @@ Production-grade LLM & RAG systems engineered for **zero persistent hallucinatio
 *An Asymmetric 9-Tier IP Stack for the LMI and Data Deserts in America*  
 by Vince Jones  
 
-![Entercation Book Cover](book-sico-protocol.jpg)
+<img src="book_sico-protocol.jpg" width="300"
 
 **Paperback available on Amazon** — Published March 2026
 
 ## Security & Compliance Framework (Live in Production)
 
-![Compliance Framework - War Room](compliance-war-room.jpg)
+![Compliance Framework -<img src="compliance-war-room.jpg" width="300"
 
 All controls are **ACTIVE** and attested:
 
