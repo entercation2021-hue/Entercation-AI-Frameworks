@@ -2,7 +2,7 @@
 ​Founder & Lead Systems Architect | Entercation Inc. (B-Corp)
 Location: Cincinnati, OH | Mobile: 513-908-0064 | Email: entercation2021@gmail.com
 Entity Infrastructure: entercation.org | Digital War Room: entercation.lovable.app
-IP Authority: Intercation: The Asymmetric Standard (Amazon, 2026)
+IP Authority: Entercation: The Asymmetric Standard (Amazon, 2026)
 ​EXECUTIVE SUMMARY: THE SOVEREIGN ENTITY
 ​Entercation Inc. is a dual-threat B-Corp providing Internal AI Heart Surgery and Asymmetric Infrastructure. As the Founder and Lead Architect, I deploy the 9-Tier IP Stack to replace the "Hardware of Ruin" with Pentagon-Tight digital sovereignty. Our services are provided on a Contractual Basis Only, ensuring that our proprietary compliance and culture protocols remain a permanent, stand-alone asset for the families we serve.
 ​As a survivor of a 40-month neurological recovery, I have engineered Entercation to operate as a System-First Entity. We bypass legacy verbal/manual hurdles through Asynchronous Technical Command, delivering NASA-Grade results that remain immutable long after the Architect has left the room.
