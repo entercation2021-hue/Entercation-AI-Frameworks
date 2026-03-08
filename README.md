@@ -8,7 +8,7 @@ Production-grade LLM & RAG systems engineered for **zero persistent hallucinatio
 *An Asymmetric 9-Tier IP Stack for the LMI and Data Deserts in America*  
 by Vince Jones  
 
-<img src="book_sico-protocol.jpg" width="300"
+<img src="book-sico-protocol.jpg" width="300"
 
 **Paperback available on Amazon** — Published March 2026
 
