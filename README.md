@@ -14,7 +14,7 @@ by Vince Jones
 
 ## Security & Compliance Framework (Live in Production)
 
-​<img src="war-room.png" width="300">
+<img src="compliance-war-room.png" width="300">
 
 All controls are **ACTIVE** and attested:
 
