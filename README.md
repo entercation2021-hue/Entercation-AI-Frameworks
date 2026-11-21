@@ -1,52 +1,14 @@
-# Entercation AI Frameworks
+# Entercation Ecosystem & Outerprise
 
-Production-grade LLM & RAG systems engineered for **zero persistent hallucinations**, ironclad compliance, and asymmetric scaling in education and high-stakes environments.
+Entercation documents activity and packages evidence for external review. Outerprise describes how a recipient can receive and inspect a delivered package across an organizational boundary without a standing connection to the producer's core systems.
 
-## Published Work
+## Explore the ecosystem
 
-**Entercation: The S.I.C.O. Protocol**  
-*An Asymmetric 9-Tier IP Stack for the LMI and Data Deserts in America*  
-by Vince Jones  
+- [Open the Entercation app](https://entercation.lovable.app/) to see the public ecosystem and its entry points.
+- [Read About Outerprise](https://entercation.lovable.app/about-outerprise) for the architecture, roles, and definitions.
+- [Compare Outerprise and enterprise integration](https://doi.org/10.5281/zenodo.24305668) in the published lexicon, including the Outerprise Waste Metric (OWM).
+- [Open the Micro and Macro evidence guide](https://github.com/entercation2021-hue/outerprise-spec/blob/main/blocks/micro-macro-receipts.md) to follow individual records into an aggregate package.
+- [Open the Visual Manual and app screenshots](https://doi.org/10.5281/zenodo.24415152) for the public interface and fiscal-sponsorship walkthrough.
+- [Open the Outerprise specification](https://github.com/entercation2021-hue/outerprise-spec) for the examination method, technical drafts, verification scripts, and evidence index.
 
-​<img src="book-sico-protocol.jpg" width="300">
-
-**Paperback available on Amazon** — Published March 2026
-
-## Security & Compliance Framework (Live in Production)
-
-<img src="compliance-war-room.jpg" width="300">
-
-All controls are **ACTIVE** and attested:
-
-- CJIS Security Policy  
-- COPPA Verified  
-- HIPAA Compliant  
-- FERPA Protected  
-- SOC 2 Type II  
-- WCAG 2.1 AA  
-- End-to-End Encryption (E2EE)
-
-## Skills & Expertise
-
-- AI Architecture & LLM Systems (NASDAQ-scale production systems)
-- RAG Optimization & Hallucination Elimination (RSSB framework)
-- Terraform IaC for versioned, auditable RAG pipelines
-- Asymmetric 9-Tier IP Stack (S.I.C.O. Protocol)
-- NASA-grade validation suites (throughput, privacy, adversarial)
-- Full compliance hardening (SOC 2, CJIS, FERPA, COPPA, HIPAA)
-- Prompt Engineering & AI governance frameworks
-- Remote collaboration & real-time documentation standards
-
-## Purpose of This Repository
-
-These frameworks were built so groundbreaking asymmetric AI work can be judged on real delivered systems, published book, live compliance proof, and validation results — not on automated AI interviews that cannot evaluate this level of architecture.
-
-## Ready to Deploy
-
-Available immediately for **Senior AI Engineer – LLM Systems & RAG Optimization** roles (remote contract preferred).
-
-**Vince Jones**  
-513-908-0064  
-entercation2021@gmail.com  
-Cincinnati, OH  
-www.entercation.org
+The public materials document the model, visible app surfaces, and worked examples. Source records and separate authorization govern any access to participant-level evidence.
