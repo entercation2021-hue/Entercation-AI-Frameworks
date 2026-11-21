@@ -2,6 +2,8 @@
 
 Entercation documents activity and packages evidence for external review. Outerprise describes how a recipient can receive and inspect a delivered package across an organizational boundary without a standing connection to the producer's core systems.
 
+[Vince Jones’s résumé](RESUME.md)
+
 ## Explore the ecosystem
 
 - [Open the Entercation app](https://entercation.lovable.app/) to see the public ecosystem and its entry points.
