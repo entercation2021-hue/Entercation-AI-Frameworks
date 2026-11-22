@@ -14,3 +14,8 @@ Entercation documents activity and packages evidence for external review. Outerp
 - [Open the Outerprise specification](https://github.com/entercation2021-hue/outerprise-spec) for the examination method, technical drafts, verification scripts, and evidence index.
 
 The public materials document the model, visible app surfaces, and worked examples. Source records and separate authorization govern any access to participant-level evidence.
+
+
+## Internet-Drafts
+
+[Find the exact Internet-Draft revisions and their Zenodo citations](https://github.com/entercation2021-hue/outerprise-spec/blob/main/README.md#internet-drafts-and-archival-copies).
